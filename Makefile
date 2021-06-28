@@ -1,1 +1,2 @@
-gcc src/antivirus.c -o antivirus
+all:
+	gcc src/antivirus.c -o antivirus
